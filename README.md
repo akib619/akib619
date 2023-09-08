@@ -8,7 +8,6 @@ I love to develop effective test automation scripts and help deliver high-qualit
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [\[mail.akibmahmud@gmail.com\](mailto:mail.akibmahmud@gmail.com)](mailto:[mail.akibmahmud@gmail.com](mailto:mail.akibmahmud@gmail.com))
-* 🧠  I'm learning JMeter and Jira
 * 🤝  I'm open to collaborating on interesting automation projects
 * ⚡  I love to explore new things
 
@@ -28,6 +27,3 @@ src="https://img.shields.io/twitter/follow/akIb_mahmud_?logo=twitter&style=for-t
 
 <p align="left"> <a href="https://www.github.com/akib619" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/akibthinks" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/akIb_mahmud_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<a href="https://github.com/akib619" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akib619&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
